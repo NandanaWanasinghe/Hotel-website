@@ -1,2 +1,2 @@
 # Student-management-sysytem
-AURA HOTEL $SPA
+AURA HOTEL & SPA
