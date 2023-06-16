@@ -1,2 +1,2 @@
 # Student-management-sysytem
-CRUD application
+AURA HOTEL $SPA
