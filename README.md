@@ -1,2 +1,2 @@
-# Student-management-sysytem
+# Hotel-website
 AURA HOTEL & SPA
